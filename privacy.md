@@ -52,7 +52,7 @@ We are the data controller. We are registered with the Information Commissioner'
 | Focus sessions: category, start time, minutes, finished or not | The same |
 | Scheduling records: what you typed, where the engine put it, and why | To diagnose a placement that went wrong |
 | Whether your free trial is running | To give you the right features |
-| **Whether you have an active subscription**, plus an account code that is not your name or email | To unlock Sort Pro. **16 and over only** |
+| **Whether you have an active subscription**, plus an account code that is not your name or email | To unlock a paid tier, currently Sort Pro. **16 and over only** |
 | **Whether Student Beans says you are a verified student, and when that runs out** | To give you a student price, if you ask for one. **16 and over only** |
 | **Basic fault reports, only if you switch diagnostics on** | To fix crashes. The type of fault, your platform and the app build. Never your task words. **16 and over only** |
 | Your message and email address, if you use the contact form on our website | To reply to you |

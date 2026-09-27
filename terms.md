@@ -72,9 +72,11 @@ Sort is a planning tool, not a guarantee. **You stay responsible for your own de
 
 ## 6. Money
 
-**Sort is free to use, and there is a paid tier called Sort Pro.**
+**Sort is free to use, and there are paid tiers. The one available today is Sort Pro.**
 
 If you are 16 or over you get a **14-day free trial of Sort Pro** at sign-up.
+
+We may add, rename or withdraw paid tiers over time. If we do, we will tell you in the app before it affects you. Whatever tier you are on keeps the price you agreed until you choose to change it.
 
 **No card is taken for the trial. Nothing is charged for it.** After 14 days you move to the free version, and you keep everything you have made.
 
@@ -85,7 +87,7 @@ Before you pay for anything, the app will show you the price, how often you are 
 If you choose to subscribe after the trial:
 
 - **The App Store or Google Play takes the payment, not us.** We never see or hold your card details. Billing, renewals and cancellations run through your Apple or Google account.
-- We use **RevenueCat** to check whether a subscription is active. It may receive your account code when you open the subscription screen or restore a purchase, even if you never buy. What it holds is described in the Privacy Policy.
+- We use a subscription checker, currently **RevenueCat**, to see whether a subscription is active. It may receive your account code when you open the subscription screen or restore a purchase, even if you never buy. What it holds is described in the Privacy Policy.
 - **Subscriptions renew until you cancel.** Cancel through your Apple or Google account. Deleting Sort, or deleting your Sort account, does not cancel a subscription.
 - You have a legal right to cancel some online purchases within 14 days under the **Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013**. How that right applies depends on whether what you bought counts as digital content or a service, and on what you agree at checkout. We will set this out on the purchase screen before you pay. Store refund rules do not take away your legal rights.
 - If what you paid for is not as described, does not work, or is not supplied with reasonable care and skill, you have rights under the **Consumer Rights Act 2015**. Those rights cannot be signed away and we will not try to.
@@ -94,7 +96,9 @@ If you choose to subscribe after the trial:
 
 Sort can check your student status so you get a student price. This is **optional** and you only start it if you want to.
 
-If you do, we hand you to **Student Beans** to sign in with them. They tell us one thing: whether you are a verified student, and when that verification runs out. **We do not receive your university records.** Student Beans learns that you use Sort.
+If you do, we hand you to our student verification provider, currently **Student Beans**, to sign in with them. They tell us one thing: whether you are a verified student, and when that verification runs out. **We do not receive your university records.**
+
+We may change or add student verification providers. If we do, we will name the provider in the app before you use it, and the [Privacy Policy](privacy) will say what it receives. Student Beans learns that you use Sort.
 
 **This is for 16 and over.** Under-16s are not asked to verify anything.
 
